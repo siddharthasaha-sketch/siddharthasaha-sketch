@@ -82,19 +82,17 @@ Contributed to the manufacturing of an IEEE-funded Electric Vehicle project focu
 - Gained practical exposure to EV technology.
 - Contributed to a successfully developed charging solution.
 
-### 🧠 Multimodal AI Hackathon – IIT Mandi
 
-Participated in the Multimodal AI Hackathon organized by IIT Mandi.
+### Ldr based Automatic Emergency Light
+Contibuted in the manufacturing of Automatic Emergency light using BJT and LDR focused on automatic switching during emergency power cutoff.
 
-- Explored multimodal AI technologies.
-- Engaged in innovative AI-based problem-solving.
+ - Participated in the circuit design.
+ - Participated in designing and building the LDR based automatic light detector on a breadboard.
+ - Gained practical exposure to sensor interfacing, transistor switching and circuit protection in analog electronics.
+ - Contributed to a successfully working light-sensing circuit that switches LED indicators automatically in bright and dark conditions.
 
-### 💳 PayPal Hackathon
 
-Participated in the PayPal Hackathon.
 
-- Explored technology-driven solutions.
-- Gained collaborative hackathon experience.
 
 ### 🫁 Smart India Hackathon 2026
 
